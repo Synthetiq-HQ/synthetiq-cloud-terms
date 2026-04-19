@@ -1,6 +1,6 @@
 # Synthetiq Cloud Terms
 
-Last updated: 2026-04-18
+Last updated: 2026-04-19
 
 These terms apply when you use Synthetiq Cloud, including account sync, favourites sync, continue watching sync, settings sync, and any future cloud storage features.
 
@@ -41,11 +41,14 @@ You must not use Synthetiq Cloud to upload, store, sync, transmit, or distribute
 Use common sense.
 
 ## 6. We can restrict or remove access
-We reserve the right to suspend, limit, delete, or ban any account or stored data at any time if:
+We reserve the absolute right to suspend, limit, delete, or permanently ban any account or stored data at any time, for any reason, without prior notice or approval. This includes but is not limited to:
 - we believe the service is being abused
 - prohibited content is stored or uploaded
 - usage appears harmful, fraudulent, or unlawful
 - we need to protect the service, other users, or infrastructure
+- any other reason at our sole discretion
+
+No prior warning, explanation, or approval is required.
 
 ## 7. Usage and storage limits
 Cloud plans may have limits. These may include:
@@ -59,19 +62,26 @@ Premium accounts may receive higher limits.
 Free accounts may receive lower limits.
 A hard account cap may still apply to all plans.
 
-## 8. Data retention and inactive accounts
-We may review inactive accounts from time to time.
-If an account has very little stored data and has been inactive for a long period, we may flag it for manual review and possible cleanup.
-We do not promise indefinite storage for inactive accounts.
+## 8. Data retention and deletion
+We are not required to keep your data and we do not guarantee long-term retention of any data.
+
+When an account is deleted — whether by you, by us, or due to inactivity — your cloud data will be retained for up to **3 days** after deletion. After that, it will be permanently erased with no possibility of recovery.
+
+If you need a copy of your data within that 3-day window, you may contact us on Discord (see section 14). We will make reasonable efforts to assist, but we are not obligated to do so.
+
+We do not promise indefinite storage for any account, active or inactive.
 
 ## 9. Security
 We take reasonable steps to protect your data and secure the service.
 That said, no online service can guarantee perfect security.
 By using Synthetiq Cloud, you understand and accept that some level of risk exists with any internet-based system.
 
-## 10. Service availability
+## 10. Service availability and discontinuation
 We do not guarantee uninterrupted service, permanent uptime, or permanent availability of any stored cloud data.
-The service may be changed, limited, paused, or removed at any time.
+
+The service may be changed, limited, paused, or permanently shut down at any time, without prior notice or approval. This is a project — if the service is discontinued for any reason, we are under no obligation to retain, migrate, or return your data. Any stored data may simply be lost.
+
+By using Synthetiq Cloud, you accept this risk.
 
 ## 11. Backups and responsibility
 You are responsible for keeping your own backups of anything important.
@@ -85,4 +95,8 @@ If the change is important, we will try to communicate it clearly.
 If we explicitly state that certain existing premium users are grandfathered into specific benefits, those users will keep those benefits under the conditions announced at the time.
 
 ## 14. Contact
-If you have questions about Synthetiq Cloud, contact us through the official Synthetiq channels.
+If you have questions about Synthetiq Cloud or need to request your data within the 3-day post-deletion window, you can reach us on Discord:
+
+- **Discord User ID:** `914293929271259156`
+
+You may also contact us through any other official Synthetiq channels.
